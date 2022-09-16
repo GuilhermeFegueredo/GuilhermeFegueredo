@@ -1,7 +1,7 @@
-Fala, Eu sou Gui 👋
+Fala ai, tudo bem? Eu sou o Guilherme 👋
 
 - 🌱 I'm currently learning Java
-- 📫 How to reach me: luis.oliveira@edu.unifil.br
+- 📫 How to reach me: luisguilhermefegueredo@gmail.com
 
 <div align="center">
   <a href="https://github.com/GuilhermeFegueredo">
